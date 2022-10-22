@@ -36,4 +36,4 @@ An awesome list of community projects made for win93 🕶
 | [ThemeMaster](https://github.com/Driftini/ThemeMaster)                          | A theme changer for Windows93.                                                                                                                                        |
 | [Pancake (previously known as Windows103)](https://github.com/Driftini/Pancake) | A Windows 10-inspired theme for http://windows93.net                                                                                                                  |
 ### Miscellaneous
-Coming soon...
+[v3 Ideas](https://github.com/Blockly1/Windows-93-stuff/blob/main/v3%20ideas.md)
